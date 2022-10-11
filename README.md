@@ -1,1 +1,0 @@
-# MajorStudio1_Qualitative
