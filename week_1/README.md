@@ -29,4 +29,4 @@
 </p>
 <p>I aim to create a simple visualisation with "line" and "rectangle", combining the scrollytelling technique.</p>
 
-<img src="https://github.com/skyladfah/MajorStudio1_Qualitative/blob/main/week_1/week_1_sketch_3.jpg" width=60% height=60%>
+<img src="week_1_sketch_3.jpg" width=60% height=60%>
