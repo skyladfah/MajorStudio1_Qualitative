@@ -5,7 +5,7 @@
 <p>The idea is to show <b>the connection between each SDG goals.</b> In each country, the priority and urgency of each goal is different. For example, developing countries would focus on equality goals, while developed country could focus on innovation goals.</p>
 <p>I personally like the visual design of having multiple layers (of the goals), ideally, they should be in a semi-transparent colours, stacking on top of each other and swiping the order according to the selected option e.g. countries. However, there is no meaningful insight in this sketch.</p>
 
-![image](https://github.com/skyladfah/MajorStudio1_Qualitative/blob/main/week_1/week_1_sketch_1.jpg)
+![image](week_1_sketch_1.jpg)
 
 
 ### Sketch 2
