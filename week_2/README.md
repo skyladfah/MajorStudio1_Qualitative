@@ -50,3 +50,5 @@ Observations
 <li>African savanna elephant: Endangered, Habitat: Forests (savannas and open woodlands), Threats: 2 - ILLEGAL WILDLIFE TRADE and	HUMAN-ELEPHANT CONFLICT</li>
 <li>Asian Elephant: Endangered, Habitat: Forests, Threats: 4, CAPTURE OF WILD ELEPHANTS,	HABITAT LOSS,	FRAGMENTATION,	HUMAN-ELEPHANT CONFLICT and	GENETIC THREAT FROM EXTIRPATION OF SMALL POPULATIONS</li>
 </ul>
+<li> Check out: Giorgia Lupi's data visualization such as http://giorgialupi.com/whatcounts
+</ul>
