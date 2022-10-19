@@ -17,12 +17,12 @@ Observations
 <ul>
 <li>All animal has at least one threat</li>
 <li>Most of them have more than one threats</li>
-<li>The threats are varies according to each habitats. For example, the top forest threats are illegal wildlife trade, habitat loss and elephant conflict, while the top ocean threats are climate change, by catch and gas development.
+<li>The threats are varies according to each habitats. For example, the top forest threats are illegal wildlife trade, habitat loss and elephant conflict, while the top ocean threats are climate change, by catch and gas development.</li>
 </ul>
 
 ![image](00.jpg)
 
-### Design Prototype
+## Design Prototype
 
 ![image](01.jpg)
 
@@ -34,6 +34,19 @@ Observations
 
 ![image](05.jpg)
 
+![image](06.jpg)
+
 ![image](07.jpg)
 
-![image](06.jpg)
+## Feedback
+
+<ul>
+<li>The scrolling telling is not nescessary for this data set. Because you have a cleaned data in hand, better use it wisely</li>
+<li>Create a legend page with all data variables (conservation status, species, habitat, and threats)</li>
+<li>Create a PNG or SVG of these variable and stack / layering them on top of each other in code</li>
+<li>The final visualisation can be a page full of symbols</li>
+<li>You can use the same elephant icon for all 7 endangered species because the variable will make each of them different from each other. For example,
+<ul>
+<li>African savanna elephant: Endangered, Habitat: Forests (savannas and open woodlands), Threats: 2 - ILLEGAL WILDLIFE TRADE and	HUMAN-ELEPHANT CONFLICT</li>
+<li>Asian Elephant: Endangered, Habitat: Forests, Threats: 4, CAPTURE OF WILD ELEPHANTS,	HABITAT LOSS,	FRAGMENTATION,	HUMAN-ELEPHANT CONFLICT and	GENETIC THREAT FROM EXTIRPATION OF SMALL POPULATIONS</li>
+</ul>
