@@ -2,7 +2,7 @@ COMMONNAME,ICON,CONSERVATIONSTATUS,Habitat1,Habitat2,Habitat3,Habitat4,Threat
 Brown Bear,Bear,Least Concern,Forests,Tundra,,,2
 Mountain Plover,Bird,Near Threatened,Grasslands,,,,2
 Plains Bison,Bison,Near Threatened,,,,,3
-Black-footed Ferret,Black-footed ferrets,Endangered,Grasslands,,,,2
+Black-footed Ferret,BlackFootedFerrets,Endangered,Grasslands,,,,2
 Monarch Butterfly,Butterfly,Endangered,Forests,Mountains,,,2
 Chimpanzee,Chimpanzee,Endangered,Forests,Savannah Woodlands,Grasslands,,2
 Pronghorn,Deer,Least Concern,Grasslands,Deserts,,,2
