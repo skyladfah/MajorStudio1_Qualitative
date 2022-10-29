@@ -1,4 +1,4 @@
-COMMON NAME,ICON,CONSERVATION STATUS,Habitat 1,Habitat 2,Habitat 3,Habitat 4,Threat
+COMMONNAME,ICON,CONSERVATIONSTATUS,HABITAT1,HABITAT2,HABITAT3,HABITAT4,Threat
 African Elephant,Elephant,Endangered,Tropical Forests,Savannah,Grasslands,Woodlands,4
 African forest elephant,Elephant,Critically Endangered,Tropical Forests,,,,4
 African savanna elephant,Elephant,Endangered,Savannah,Forests,Deserts,,2
@@ -9,7 +9,7 @@ Arctic Wolf,Wolf,Least Concern,Tundra,,,,2
 Asian Elephant,Elephant,Endangered,Forests,,,,5
 Black Rhino,Rhino,Critically Endangered,Forests,Savannah,Woodlands,Wetlands,6
 Black Spider Monkey,Monkey,Vulnerable,Tropical Forests,Broadleaf Forests,,,1
-Black-footed Ferret,Black-footed ferrets,Endangered,Grasslands,,,,2
+Black-footed Ferret,BlackFootedFerrets,Endangered,Grasslands,,,,2
 Bonobo,Monkey,Endangered,Forests,,,,3
 Bornean Elephant,Elephant,Endangered,Forests,,,,2
 Bornean Orangutan,Orangutan,Critically Endangered,Tropical Forests,Rainforests,Mountain forests,,2
