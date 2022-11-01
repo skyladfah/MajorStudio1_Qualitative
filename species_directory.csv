@@ -1,4 +1,4 @@
-COMMONNAME,ICON,CONSERVATIONSTATUS,HABITAT1,HABITAT2,HABITAT3,HABITAT4,Threat
+COMMONNAME,ICON,CONSERVATIONSTATUS,HABITAT1,HABITAT2,HABITAT3,HABITAT4,THREAT
 African Elephant,Elephant,Endangered,Tropical Forests,Savannah,Grasslands,Woodlands,4
 African forest elephant,Elephant,Critically Endangered,Tropical Forests,N/A,N/A,N/A,4
 African savanna elephant,Elephant,Endangered,Savannah,Forests,Deserts,N/A,2
