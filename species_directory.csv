@@ -1,6 +1,6 @@
 COMMONNAME,ICON,CONSERVATIONSTATUS,HABITAT1,HABITAT2,HABITAT3,HABITAT4,Threat
 African Elephant,Elephant,Endangered,Tropical Forests,Savannah,Grasslands,Woodlands,4
-African forest elephant,Elephant,Critically Endangered,Tropical Forests,,,,4
+African forest elephant,Elephant,Critically Endangered,Tropical Forests,N/A,N/A,N/A,4
 African savanna elephant,Elephant,Endangered,Savannah,Forests,Deserts,,2
 African Wild Dog,Fox,Endangered,Deserts,Forests,Grasslands,,1
 Amur Leopard,Leopard,Critically Endangered,Temperate Forests,Broadleaf Forests,Mixed Forests,,2
