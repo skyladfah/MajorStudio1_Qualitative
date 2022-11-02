@@ -40,6 +40,7 @@
   <li><a href="https://github.com/skyladfah/MajorStudio1_Qualitative/blob/main/week_3/index.html">index.html</a>
   <li><a href="https://github.com/skyladfah/MajorStudio1_Qualitative/blob/main/week_3/script.js">script.js</a>
   <li><a href="https://github.com/skyladfah/MajorStudio1_Qualitative/blob/main/week_3/styles.css">styles.css</a>
+  <li><a href="https://github.com/skyladfah/MajorStudio1_Qualitative/blob/main/species_directory.csv">species_directory.csv (data set)</a>
 <u/l>  
   
 ![image](final_outcome.jpg)
