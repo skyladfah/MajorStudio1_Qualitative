@@ -1,0 +1,13 @@
+h1 {
+    font-family: 'Alata', sans-serif;
+    font-size: 300%;
+  }
+h2,p {
+    font-family: 'Alata', sans-serif;
+    font-size: 150%;
+  }
+
+#name {
+    font-family: 'Alata', sans-serif;
+    font-size: 100%;
+  }
