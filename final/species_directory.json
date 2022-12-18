@@ -1,0 +1,472 @@
+[
+  {
+    "COMMON NAME": "Brown Bear",
+    "ICON": "Bear",
+    "CONSERVATION STATUS": "Least Concern",
+    "Habitat 1": "Forests",
+    "Habitat 2": "Tundra",
+    "Habitat 3": "",
+    "Habitat 4": "",
+    "Threat": 2
+  },
+  {
+    "COMMON NAME": "Mountain Plover",
+    "ICON": "Bird",
+    "CONSERVATION STATUS": "Near Threatened",
+    "Habitat 1": "Grasslands",
+    "Habitat 2": "",
+    "Habitat 3": "",
+    "Habitat 4": "",
+    "Threat": 2
+  },
+  {
+    "COMMON NAME": "Plains Bison",
+    "ICON": "Bison",
+    "CONSERVATION STATUS": "Near Threatened",
+    "Habitat 1": "",
+    "Habitat 2": "",
+    "Habitat 3": "",
+    "Habitat 4": "",
+    "Threat": 3
+  },
+  {
+    "COMMON NAME": "Black-footed Ferret",
+    "ICON": "Black-footed ferrets",
+    "CONSERVATION STATUS": "Endangered",
+    "Habitat 1": "Grasslands",
+    "Habitat 2": "",
+    "Habitat 3": "",
+    "Habitat 4": "",
+    "Threat": 2
+  },
+  {
+    "COMMON NAME": "Monarch Butterfly",
+    "ICON": "Butterfly",
+    "CONSERVATION STATUS": "Endangered",
+    "Habitat 1": "Forests",
+    "Habitat 2": "Mountains",
+    "Habitat 3": "",
+    "Habitat 4": "",
+    "Threat": 2
+  },
+  {
+    "COMMON NAME": "Chimpanzee",
+    "ICON": "Chimpanzee",
+    "CONSERVATION STATUS": "Endangered",
+    "Habitat 1": "Forests",
+    "Habitat 2": "Savannah Woodlands",
+    "Habitat 3": "Grasslands",
+    "Habitat 4": "",
+    "Threat": 2
+  },
+  {
+    "COMMON NAME": "Pronghorn",
+    "ICON": "Deer",
+    "CONSERVATION STATUS": "Least Concern",
+    "Habitat 1": "Grasslands",
+    "Habitat 2": "Deserts",
+    "Habitat 3": "",
+    "Habitat 4": "",
+    "Threat": 2
+  },
+  {
+    "COMMON NAME": "Saola",
+    "ICON": "Deer",
+    "CONSERVATION STATUS": "Critically Endangered",
+    "Habitat 1": "Evergreen Forests",
+    "Habitat 2": "",
+    "Habitat 3": "",
+    "Habitat 4": "",
+    "Threat": 2
+  },
+  {
+    "COMMON NAME": "African Elephant",
+    "ICON": "Elephant",
+    "CONSERVATION STATUS": "Endangered",
+    "Habitat 1": "Tropical Forests",
+    "Habitat 2": "Savannah",
+    "Habitat 3": "Grasslands",
+    "Habitat 4": "Woodlands",
+    "Threat": 4
+  },
+  {
+    "COMMON NAME": "African forest elephant",
+    "ICON": "Elephant",
+    "CONSERVATION STATUS": "Critically Endangered",
+    "Habitat 1": "Tropical Forests",
+    "Habitat 2": "",
+    "Habitat 3": "",
+    "Habitat 4": "",
+    "Threat": 4
+  },
+  {
+    "COMMON NAME": "African savanna elephant",
+    "ICON": "Elephant",
+    "CONSERVATION STATUS": "Endangered",
+    "Habitat 1": "Savannah",
+    "Habitat 2": "Forests",
+    "Habitat 3": "Deserts",
+    "Habitat 4": "",
+    "Threat": 2
+  },
+  {
+    "COMMON NAME": "Asian Elephant",
+    "ICON": "Elephant",
+    "CONSERVATION STATUS": "Endangered",
+    "Habitat 1": "Forests",
+    "Habitat 2": "",
+    "Habitat 3": "",
+    "Habitat 4": "",
+    "Threat": 5
+  },
+  {
+    "COMMON NAME": "Bornean Elephant",
+    "ICON": "Elephant",
+    "CONSERVATION STATUS": "Endangered",
+    "Habitat 1": "Forests",
+    "Habitat 2": "",
+    "Habitat 3": "",
+    "Habitat 4": "",
+    "Threat": 2
+  },
+  {
+    "COMMON NAME": "Indian Elephant",
+    "ICON": "Elephant",
+    "CONSERVATION STATUS": "Endangered",
+    "Habitat 1": "Broadleaf Forests",
+    "Habitat 2": "Dry Forest",
+    "Habitat 3": "Grasslands",
+    "Habitat 4": "",
+    "Threat": 3
+  },
+  {
+    "COMMON NAME": "Sri Lankan Elephant",
+    "ICON": "Elephant",
+    "CONSERVATION STATUS": "Endangered",
+    "Habitat 1": "Tropical Forests",
+    "Habitat 2": "Broadleaf Forests",
+    "Habitat 3": "",
+    "Habitat 4": "",
+    "Threat": 2
+  },
+  {
+    "COMMON NAME": "Sumatran Elephant",
+    "ICON": "Elephant",
+    "CONSERVATION STATUS": "Critically Endangered",
+    "Habitat 1": "Tropical Forests",
+    "Habitat 2": "Broadleaf Forests",
+    "Habitat 3": "",
+    "Habitat 4": "",
+    "Threat": 3
+  },
+  {
+    "COMMON NAME": "Arctic Fox",
+    "ICON": "Fox",
+    "CONSERVATION STATUS": "Least Concern",
+    "Habitat 1": "Tundra",
+    "Habitat 2": "",
+    "Habitat 3": "",
+    "Habitat 4": "",
+    "Threat": 2
+  },
+  {
+    "COMMON NAME": "Swift Fox",
+    "ICON": "Fox",
+    "CONSERVATION STATUS": "Least Concern",
+    "Habitat 1": "Mixed-grass prairies",
+    "Habitat 2": "",
+    "Habitat 3": "",
+    "Habitat 4": "",
+    "Threat": 3
+  },
+  {
+    "COMMON NAME": "Poison Dart Frog",
+    "ICON": "Frog",
+    "CONSERVATION STATUS": "Critically Endangered",
+    "Habitat 1": "Grasslands",
+    "Habitat 2": "",
+    "Habitat 3": "",
+    "Habitat 4": "",
+    "Threat": 2
+  },
+  {
+    "COMMON NAME": "Cross River Gorilla",
+    "ICON": "Gorilla",
+    "CONSERVATION STATUS": "Critically Endangered",
+    "Habitat 1": "Rainforests",
+    "Habitat 2": "",
+    "Habitat 3": "",
+    "Habitat 4": "",
+    "Threat": 2
+  },
+  {
+    "COMMON NAME": "Eastern Lowland Gorilla",
+    "ICON": "Gorilla",
+    "CONSERVATION STATUS": "Critically Endangered",
+    "Habitat 1": "Rainforests",
+    "Habitat 2": "",
+    "Habitat 3": "",
+    "Habitat 4": "",
+    "Threat": 3
+  },
+  {
+    "COMMON NAME": "Mountain Gorilla",
+    "ICON": "Gorilla",
+    "CONSERVATION STATUS": "Endangered",
+    "Habitat 1": "Forests",
+    "Habitat 2": "Mountains",
+    "Habitat 3": "",
+    "Habitat 4": "",
+    "Threat": 5
+  },
+  {
+    "COMMON NAME": "Western Lowland Gorilla",
+    "ICON": "Gorilla",
+    "CONSERVATION STATUS": "Critically Endangered",
+    "Habitat 1": "Rainforests",
+    "Habitat 2": "",
+    "Habitat 3": "",
+    "Habitat 4": "",
+    "Threat": 2
+  },
+  {
+    "COMMON NAME": "Greater Sage-Grouse",
+    "ICON": "Greater sage-grouse",
+    "CONSERVATION STATUS": "Near Threatened",
+    "Habitat 1": "Grasslands",
+    "Habitat 2": "",
+    "Habitat 3": "",
+    "Habitat 4": "",
+    "Threat": 3
+  },
+  {
+    "COMMON NAME": "Jaguar",
+    "ICON": "Jaguar",
+    "CONSERVATION STATUS": "Near Threatened",
+    "Habitat 1": "Forests",
+    "Habitat 2": "Grasslands",
+    "Habitat 3": "",
+    "Habitat 4": "",
+    "Threat": 3
+  },
+  {
+    "COMMON NAME": "Amur Leopard",
+    "ICON": "Leopard",
+    "CONSERVATION STATUS": "Critically Endangered",
+    "Habitat 1": "Temperate Forests",
+    "Habitat 2": "Broadleaf Forests",
+    "Habitat 3": "Mixed Forests",
+    "Habitat 4": "",
+    "Threat": 2
+  },
+  {
+    "COMMON NAME": "Snow Leopard",
+    "ICON": "Leopard",
+    "CONSERVATION STATUS": "Vulnerable",
+    "Habitat 1": "High Mountains",
+    "Habitat 2": "",
+    "Habitat 3": "",
+    "Habitat 4": "",
+    "Threat": 4
+  },
+  {
+    "COMMON NAME": "Macaw",
+    "ICON": "Macaw",
+    "CONSERVATION STATUS": "Least Concern",
+    "Habitat 1": "Rainforests",
+    "Habitat 2": "",
+    "Habitat 3": "",
+    "Habitat 4": "",
+    "Threat": 1
+  },
+  {
+    "COMMON NAME": "Black Spider Monkey",
+    "ICON": "Monkey",
+    "CONSERVATION STATUS": "Vulnerable",
+    "Habitat 1": "Tropical Forests",
+    "Habitat 2": "Broadleaf Forests",
+    "Habitat 3": "",
+    "Habitat 4": "",
+    "Threat": 1
+  },
+  {
+    "COMMON NAME": "Bonobo",
+    "ICON": "Monkey",
+    "CONSERVATION STATUS": "Endangered",
+    "Habitat 1": "Forests",
+    "Habitat 2": "",
+    "Habitat 3": "",
+    "Habitat 4": "",
+    "Threat": 3
+  },
+  {
+    "COMMON NAME": "Bornean Orangutan",
+    "ICON": "Orangutan",
+    "CONSERVATION STATUS": "Critically Endangered",
+    "Habitat 1": "Tropical Forests",
+    "Habitat 2": "Rainforests",
+    "Habitat 3": "Mountain forests",
+    "Habitat 4": "",
+    "Threat": 2
+  },
+  {
+    "COMMON NAME": "Orangutan",
+    "ICON": "Orangutan",
+    "CONSERVATION STATUS": "Critically Endangered",
+    "Habitat 1": "Forests",
+    "Habitat 2": "",
+    "Habitat 3": "",
+    "Habitat 4": "",
+    "Threat": 4
+  },
+  {
+    "COMMON NAME": "Sumatran Orangutan",
+    "ICON": "Orangutan",
+    "CONSERVATION STATUS": "Critically Endangered",
+    "Habitat 1": "Tropical Forests",
+    "Habitat 2": "Broadleaf Forests",
+    "Habitat 3": "",
+    "Habitat 4": "",
+    "Threat": 2
+  },
+  {
+    "COMMON NAME": "Giant Panda",
+    "ICON": "Panda",
+    "CONSERVATION STATUS": "Vulnerable",
+    "Habitat 1": "Mixed Forests",
+    "Habitat 2": "Broadleaf Forests",
+    "Habitat 3": "",
+    "Habitat 4": "",
+    "Threat": 2
+  },
+  {
+    "COMMON NAME": "Red Panda",
+    "ICON": "Panda",
+    "CONSERVATION STATUS": "Endangered",
+    "Habitat 1": "Temperate Forests",
+    "Habitat 2": "",
+    "Habitat 3": "",
+    "Habitat 4": "",
+    "Threat": 1
+  },
+  {
+    "COMMON NAME": "Pangolin",
+    "ICON": "Pangolin",
+    "CONSERVATION STATUS": "Critically Endangered",
+    "Habitat 1": "Forests",
+    "Habitat 2": "Grasslands",
+    "Habitat 3": "",
+    "Habitat 4": "",
+    "Threat": 1
+  },
+  {
+    "COMMON NAME": "Black Rhino",
+    "ICON": "Rhino",
+    "CONSERVATION STATUS": "Critically Endangered",
+    "Habitat 1": "Forests",
+    "Habitat 2": "Savannah",
+    "Habitat 3": "Woodlands",
+    "Habitat 4": "Wetlands",
+    "Threat": 6
+  },
+  {
+    "COMMON NAME": "Greater One-Horned Rhino",
+    "ICON": "Rhino",
+    "CONSERVATION STATUS": "Vulnerable",
+    "Habitat 1": "Tropical Grasslands",
+    "Habitat 2": "Subtropical Grasslands",
+    "Habitat 3": "Savannah",
+    "Habitat 4": "Shrublands",
+    "Threat": 3
+  },
+  {
+    "COMMON NAME": "Javan Rhino",
+    "ICON": "Rhino",
+    "CONSERVATION STATUS": "Critically Endangered",
+    "Habitat 1": "Tropical Forests",
+    "Habitat 2": "",
+    "Habitat 3": "",
+    "Habitat 4": "",
+    "Threat": 4
+  },
+  {
+    "COMMON NAME": "Sumatran Rhino",
+    "ICON": "Rhino",
+    "CONSERVATION STATUS": "Critically Endangered",
+    "Habitat 1": "Tropical Forests",
+    "Habitat 2": "",
+    "Habitat 3": "",
+    "Habitat 4": "",
+    "Threat": 4
+  },
+  {
+    "COMMON NAME": "White Rhino",
+    "ICON": "Rhino",
+    "CONSERVATION STATUS": "Near Threatened",
+    "Habitat 1": "Savanna",
+    "Habitat 2": "Grasslands",
+    "Habitat 3": "",
+    "Habitat 4": "",
+    "Threat": 2
+  },
+  {
+    "COMMON NAME": "Sloth",
+    "ICON": "Sloth",
+    "CONSERVATION STATUS": "Critically Endangered",
+    "Habitat 1": "Rainforests",
+    "Habitat 2": "",
+    "Habitat 3": "",
+    "Habitat 4": "",
+    "Threat": 1
+  },
+  {
+    "COMMON NAME": "Continental Tiger",
+    "ICON": "Tiger",
+    "CONSERVATION STATUS": "Extinct in the Wild",
+    "Habitat 1": "Forests",
+    "Habitat 2": "",
+    "Habitat 3": "",
+    "Habitat 4": "",
+    "Threat": 4
+  },
+  {
+    "COMMON NAME": "Sunda Tiger",
+    "ICON": "Tiger",
+    "CONSERVATION STATUS": "Critically Endangered",
+    "Habitat 1": "Evergreen Forests",
+    "Habitat 2": "Broadleaf Forests",
+    "Habitat 3": "Freshwater Swamp Forests",
+    "Habitat 4": "",
+    "Threat": 3
+  },
+  {
+    "COMMON NAME": "Tree Kangaroo",
+    "ICON": "Tree Kangaroo",
+    "CONSERVATION STATUS": "Least Concern",
+    "Habitat 1": "Rainforests",
+    "Habitat 2": "",
+    "Habitat 3": "",
+    "Habitat 4": "",
+    "Threat": 3
+  },
+  {
+    "COMMON NAME": "African Wild Dog",
+    "ICON": "Fox",
+    "CONSERVATION STATUS": "Endangered",
+    "Habitat 1": "Deserts",
+    "Habitat 2": "Forests",
+    "Habitat 3": "Grasslands",
+    "Habitat 4": "",
+    "Threat": 1
+  },
+  {
+    "COMMON NAME": "Arctic Wolf",
+    "ICON": "Wolf",
+    "CONSERVATION STATUS": "Least Concern",
+    "Habitat 1": "Tundra",
+    "Habitat 2": "",
+    "Habitat 3": "",
+    "Habitat 4": "",
+    "Threat": 2
+  }
+]

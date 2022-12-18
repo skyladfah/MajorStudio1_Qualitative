@@ -1,0 +1,48 @@
+COMMON NAME,ICON,CONSERVATION STATUS,Habitat 1,Habitat 2,Habitat 3,Habitat 4,Threat
+Brown Bear,Bear,Least Concern,Forests,Tundra,,,2
+Mountain Plover,Bird,Near Threatened,Grasslands,,,,2
+Plains Bison,Bison,Near Threatened,,,,,3
+Black-footed Ferret,Black-footed ferrets,Endangered,Grasslands,,,,2
+Monarch Butterfly,Butterfly,Endangered,Forests,Mountains,,,2
+Chimpanzee,Chimpanzee,Endangered,Forests,Savannah Woodlands,Grasslands,,2
+Pronghorn,Deer,Least Concern,Grasslands,Deserts,,,2
+Saola,Deer,Critically Endangered,Evergreen Forests,,,,2
+African Elephant,Elephant,Endangered,Tropical Forests,Savannah,Grasslands,Woodlands,4
+African forest elephant,Elephant,Critically Endangered,Tropical Forests,,,,4
+African savanna elephant,Elephant,Endangered,Savannah,Forests,Deserts,,2
+Asian Elephant,Elephant,Endangered,Forests,,,,5
+Bornean Elephant,Elephant,Endangered,Forests,,,,2
+Indian Elephant,Elephant,Endangered,Broadleaf Forests,Dry Forest,Grasslands,,3
+Sri Lankan Elephant,Elephant,Endangered,Tropical Forests,Broadleaf Forests,,,2
+Sumatran Elephant,Elephant,Critically Endangered,Tropical Forests,Broadleaf Forests,,,3
+Arctic Fox,Fox,Least Concern,Tundra,,,,2
+Swift Fox,Fox,Least Concern,Mixed-grass prairies,,,,3
+Poison Dart Frog,Frog,Critically Endangered,Grasslands,,,,2
+Cross River Gorilla,Gorilla,Critically Endangered,Rainforests,,,,2
+Eastern Lowland Gorilla,Gorilla,Critically Endangered,Rainforests,,,,3
+Mountain Gorilla,Gorilla,Endangered,Forests,Mountains,,,5
+Western Lowland Gorilla,Gorilla,Critically Endangered,Rainforests,,,,2
+Greater Sage-Grouse,Greater sage-grouse,Near Threatened,Grasslands,,,,3
+Jaguar,Jaguar,Near Threatened,Forests,Grasslands,,,3
+Amur Leopard,Leopard,Critically Endangered,Temperate Forests,Broadleaf Forests,Mixed Forests,,2
+Snow Leopard,Leopard,Vulnerable,High Mountains,,,,4
+Macaw,Macaw,Least Concern,Rainforests,,,,1
+Black Spider Monkey,Monkey,Vulnerable,Tropical Forests,Broadleaf Forests,,,1
+Bonobo,Monkey,Endangered,Forests,,,,3
+Bornean Orangutan,Orangutan,Critically Endangered,Tropical Forests,Rainforests,Mountain forests,,2
+Orangutan,Orangutan,Critically Endangered,Forests,,,,4
+Sumatran Orangutan,Orangutan,Critically Endangered,Tropical Forests,Broadleaf Forests,,,2
+Giant Panda,Panda,Vulnerable,Mixed Forests,Broadleaf Forests,,,2
+Red Panda,Panda,Endangered,Temperate Forests,,,,1
+Pangolin,Pangolin,Critically Endangered,Forests,Grasslands,,,1
+Black Rhino,Rhino,Critically Endangered,Forests,Savannah,Woodlands,Wetlands,6
+Greater One-Horned Rhino,Rhino,Vulnerable,Tropical Grasslands,Subtropical Grasslands,Savannah,Shrublands,3
+Javan Rhino,Rhino,Critically Endangered,Tropical Forests,,,,4
+Sumatran Rhino,Rhino,Critically Endangered,Tropical Forests,,,,4
+White Rhino,Rhino,Near Threatened,Savanna,Grasslands,,,2
+Sloth,Sloth,Critically Endangered,Rainforests,,,,1
+Continental Tiger,Tiger,Extinct in the Wild,Forests,,,,4
+Sunda Tiger,Tiger,Critically Endangered,Evergreen Forests,Broadleaf Forests,Freshwater Swamp Forests,,3
+Tree Kangaroo,Tree Kangaroo,Least Concern,Rainforests,,,,3
+African Wild Dog,Fox,Endangered,Deserts,Forests,Grasslands,,1
+Arctic Wolf,Wolf,Least Concern,Tundra,,,,2
