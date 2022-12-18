@@ -2,6 +2,12 @@
 
 ## Design
 
+![image](https://github.com/skyladfah/MajorStudio1_Qualitative/blob/main/final/Full%20page.jpg)
+
+Legend
+
+![image](https://github.com/skyladfah/MajorStudio1_Qualitative/blob/main/final/Full%20Legend.jpg)
+
 ### Design Element
 <ul>
 <li><a href="https://github.com/skyladfah/MajorStudio1_Qualitative/tree/main/final/habitat_svg">habitat_svg</a></li>
